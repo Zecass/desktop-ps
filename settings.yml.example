@@ -1,0 +1,19 @@
+# Size options are adjusted based on resolution when not defined.
+
+resolution: 3200x1800
+backgroundColorHex: "#212738"
+
+dot:
+  # radius: 6
+  colorHex: "#d0902f"
+
+  # borderWidth: 1
+  borderColorHex: "#000000"
+
+font:
+  # size: 30
+  colorHex: "#EDF2EF"
+
+link:
+  # width: 1
+  colorHex: "#297373"
