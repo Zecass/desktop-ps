@@ -8,5 +8,5 @@ To change parameters see the file *settings.yml*
 
 ## Examples
 
-(https://github.com/Zecass/desktop-ps/blob/master/examples/example0.png?raw=true)
+![alt text](https://github.com/Zecass/desktop-ps/blob/master/examples/example0.png?raw=true)
 
